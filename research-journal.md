@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Research Journal: Health Reading-Level Lab
 
 ## Week 1 - Shorter is not always clearer

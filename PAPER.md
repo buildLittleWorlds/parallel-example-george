@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Health Reading-Level Lab: Testing Whether AI Simplification Preserves Meaning in Patient Explanations
 
 ## Abstract
